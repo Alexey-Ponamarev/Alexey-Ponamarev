@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexey-Ponamarev
+- 👋 Hi, I’m Alexey Ponamarev
 - 👀 I’m interested in programming, automation various processes. I want to learn how to create neural networks.
 - 🌱 I’m currently learning at Geek Braines programming school to be a developer.
 - 💞️ I’m looking to collaborate on various projects, simple ones so far.
